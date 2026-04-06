@@ -5,8 +5,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node server.js",
-    "seed": "node seed.js",
-    "postinstall": "npm rebuild"
+    "seed": "node seed.js"
   },
   "dependencies": {
     "better-sqlite3": "^11.10.0",
